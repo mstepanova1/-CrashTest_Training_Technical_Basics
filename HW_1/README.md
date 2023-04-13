@@ -2,13 +2,6 @@
 
 **URL:** http://a0406371.xsph.ru/
 
-**Данные для доступа к базе:**  
-- Host: a0406371.xsph.ru  
-- Database: a0406371_app_wordpress_0   
-- Port: 3306   
-- User: a0406371_tester   
-- Password: qwe123QWE   
-
 **Задания:** 
 
 1. Найти все комментарии (`comment_content`) в блоге и их автора, оставленные пользователем `admin`
